@@ -1,0 +1,29 @@
+// START FILENAME: .cursor/tasks.json
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Build Current File",
+            "type": "shell",
+            "command": "node",
+            "args": [
+                "${workspaceFolder}/build.js",
+                "${file}"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "silent",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": false,
+                "clear": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
+// END FILENAME: .cursor/tasks.json
