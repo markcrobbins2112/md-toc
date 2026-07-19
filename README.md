@@ -16,3 +16,6 @@
 
 
 </details>
+
+
+<div style="background: var(--background-secondary, #2d3139); color: var(--text-normal, #abb2bf); padding: 4px 12px; font-family: monospace; font-size: 12px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom: 1px solid var(--border-color, #3e4452);">📂 src/build.js</div>
