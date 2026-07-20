@@ -5,6 +5,17 @@ collapsed: true
 # MD-TOC
 
 
+00
+<details>
+<summary style="background: var(--color-canvas-subtle); color: var(--color-fg-default); font-weight: bold; padding: 6px 12px; cursor: pointer;">📂 View Core Implementation Details</summary>
+
+```javascript
+console.log("This block renders flawlessly on GitHub in both dark and light modes!");
+```
+
+</details>
+
+
 111
 
 <details>
