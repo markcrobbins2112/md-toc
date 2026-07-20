@@ -8,7 +8,7 @@ collapsed: true
 111
 
 <details>
-<summary style="background: var(--background-secondary, #2d3139); color: var(--text-normal, #abb2bf); padding: 4px 12px; font-family: monospace; font-size: 12px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom: 1px solid var(--border-color, #3e4452); cursor: pointer; user-select: none;">X</summary>
+<summary style="background: var(--color-canvas-subtle, --background-secondary, #2d3139); color: var(--text-normal, #abb2bf); padding: 4px 12px; font-family: monospace; font-size: 12px; border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom: 1px solid var(--border-color, #3e4452); cursor: pointer; user-select: none;">X</summary>
 
 ```javascript
 const fs = require('fs');
